@@ -4,3 +4,5 @@ Credits:Vortex Execution for the bytecode
         Immune datamodel and lua stuff and overall helping me
 
 DOWNLOAD LINK since github is being werid:https://mega.nz/file/vPhAzThK#UbgQznDcgCtcbrtS39Ped8dVVumReUEwGH2dKyW_3kA
+
+THIS IS OUTDATED WONT WORK OF NEW ROBLOX INLINE UPDATE
